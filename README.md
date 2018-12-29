@@ -1,0 +1,1 @@
+This package censors words out of text.
