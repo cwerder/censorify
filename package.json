@@ -1,9 +1,17 @@
 {
 	"author": "Charles Werder",
-	"name": "censorify",
+	"name": "censorify_cw",
 	"version": "0.1.1",
 	"description": "Censors words out of text",
 	"main": "censortext",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/cwerder/censorify.git"
+	},
+	"keywords": [
+		"censor",
+		"words"
+	],
 	"dependencies": {},
 	"engines": {
 		"node": "*"
